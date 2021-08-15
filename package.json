@@ -1,0 +1,17 @@
+{
+  "name": "course-management-app-backend",
+  "version": "1.0.0",
+  "description": "course-management-app json database to deploy to the host",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Moustapha Ramadan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
