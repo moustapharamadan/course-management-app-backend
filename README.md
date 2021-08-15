@@ -1,3 +1,3 @@
 # Course Management App Backend
-Deploy full fake REST API json-server to Heroku
+Deploy full fake REST API json-server to Heroku.<br/>
 This API will be is consumed by Course Management App.
