@@ -1,4 +1,5 @@
 const fs = require("fs");
+if (fs.existsSync("db.json")) return;
 const path = require("path");
 const mockData = require("./mockData");
 

@@ -4,6 +4,7 @@
   "description": "course-management-app json database to deploy to the host",
   "main": "apiServer.js",
   "scripts": {
+    "prestart": "node ./createMockDb.js",
     "start": "node ./apiServer.js"
   },
   "keywords": [
